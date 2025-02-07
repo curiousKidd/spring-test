@@ -32,7 +32,7 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
-	implementation 'io.reactivex.rxjava3:rxjava:3.0.6'
+	implementation 'io.reactivex.rxjava3:rxjava:3.1.10'
 	// 필요한 API를 찾아서 추가
 //	implementation 'com.jakewharton.rxbinding4:rxbinding:4.0.0'
 }
